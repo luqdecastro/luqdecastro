@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I've learned a few things about HTML and CSS. Now I’m currently learning Javascript.
-I don't work with programming yet I'm striving for that.
+<p> 🌱 I've learned a few things about HTML and CSS. Now I’m currently learning Javascript. </p>
+<p> I don't work with programming yet I'm striving for that. </p>
 
 <!--
 **luqdecastro/luqdecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
